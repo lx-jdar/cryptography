@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: spring-security-oauth2
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.baeldung.oauth2.SpringOAuthApplication
+Created-By: Maven Integration for Eclipse
+
